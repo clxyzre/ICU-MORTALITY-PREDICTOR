@@ -58,9 +58,8 @@ MIMIC-III Clinical Database Demo (PhysioNet)
 ![Confusion Matrix](confusion_matrix.png)
 
 ## Key Findings
-- [Top feature] was the strongest predictor of ICU mortality, consistent 
-  with clinical literature on [condition]
-- Random Forest outperformed Logistic Regression by [X]% AUC-ROC, 
+- Mean Bicarbonate was the strongest predictor of ICU mortality
+- Random Forest outperformed Logistic Regression by 69% AUC-ROC, 
   suggesting nonlinear interactions between vital signs and lab values
 - Length of ICU stay was among the top predictors, reflecting patient 
   severity at admission
@@ -68,7 +67,7 @@ MIMIC-III Clinical Database Demo (PhysioNet)
 ## Relevance To My Research
 This project directly extends my undergraduate research at UCLA Health 
 Radiation Oncology, where I build quantitative predictive models using 
-high-dimensional clinical datasets. MIMIC-III allowed me to apply the 
+high-dimensional clinical datasets on prostate cancer to predict and analyze how MRI and CT treatment affects surrounding organs over time. MIMIC-III allowed me to apply the 
 same analytical framework independently using a publicly available 
 real-world clinical database.
 
