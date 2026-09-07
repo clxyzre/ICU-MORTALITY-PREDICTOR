@@ -59,7 +59,7 @@ MIMIC-III Clinical Database Demo (PhysioNet)
 
 ## Key Findings
 - Mean Bicarbonate was the strongest predictor of ICU mortality
-- Random Forest outperformed Logistic Regression by 69% AUC-ROC, 
+- Random Forest outperformed Logistic Regression at 88.9% AUC-ROC, 
   suggesting nonlinear interactions between vital signs and lab values
 - Length of ICU stay was among the top predictors, reflecting patient 
   severity at admission
