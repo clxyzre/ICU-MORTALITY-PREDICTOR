@@ -3,7 +3,7 @@
 ## Overview
 A machine learning pipeline that predicts ICU patient mortality using 
 real clinical data from the MIMIC-III database. Built to demonstrate 
-applied clinical ML — the same domain as my undergraduate research in 
+applied clinical ML which the same domain as my undergraduate research in 
 radiation oncology at UCLA Health. The project involves multi-table 
 relational data engineering, time-series vital sign feature extraction, 
 and comparative model evaluation using clinically relevant metrics.
